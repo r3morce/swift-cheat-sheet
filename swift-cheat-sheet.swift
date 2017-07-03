@@ -1,3 +1,5 @@
+// gitflow https://blog.seibert-media.net/blog/2014/03/31/git-workflows-der-gitflow-workflow-teil-1/
+
 // load from nib
 class CustomView: UIView {
   class func loadFromNib(text: String) -> UIView {
